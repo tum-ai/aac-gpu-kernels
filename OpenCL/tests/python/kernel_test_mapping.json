@@ -1,0 +1,30 @@
+[
+    {
+        "kernel": "elementwise_divide_kernel.cl",
+        "test": "test_elementwise_divide"
+    },
+    {
+        "kernel": "elementwise_exp_kernel.cl",
+        "test": "test_elementwise_exp"
+    },
+    {
+        "kernel": "elementwise_multiply_kernel.cl",
+        "test": "test_elementwise_multiply"
+    },
+    {
+        "kernel": "matrix_mul_kernel.cl",
+        "test": "test_matrix_mul"
+    },
+    {
+        "kernel": "relu_kernel.cl",
+        "test": "test_relu"
+    },
+    {
+        "kernel": "sigmoid_kernel.cl",
+        "test": "test_sigmoid"
+    },
+    {
+        "kernel": "vector_add_kernel.cl",
+        "test": "test_vector_add"
+    }
+]
